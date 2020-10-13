@@ -1,4 +1,4 @@
-t("***********ENQUIRY SYSTEM*************")
+print("***********ENQUIRY SYSTEM*************")
 
 
 l=[]
